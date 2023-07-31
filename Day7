@@ -1,0 +1,9 @@
+This is day7 task from #90daysofdevops.
+
+🌟 Day7: Easiest way to install docker and jenkins on ubuntu and centos for DevOps
+🔻 Topics:
+▶ You have to install docker and jenkins in your system from your terminal using package managers
+▶ Write a small blog or article to install these tools using package managers on Ubuntu and CentOS
+▶ Check the status of docker service in your system (make sure you completed above tasks, else docker won't be installed)
+▶ Stop the service jenkins and post before and after screenshots
+▶ Read about the commands systemctl vs service (eg. systemctl status docker vs service docker status)
