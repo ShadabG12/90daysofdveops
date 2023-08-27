@@ -1,0 +1,7 @@
+🌟 Day10: Level up your Git skills with this latest blog
+
+Hello, Connections! Day10 of my #90daysofdevops 👋
+
+Task 1: Master Git Workflow Learn how to create branches, commit changes, and sync local and remote repos. 📝 Follow these steps: Create a new branch 'dev' from 'master': git checkout -b dev Add 'version01.txt' with "This is the first feature of our application" Commit: "Added new feature" Push to remote, sync local & remote repos Make more changes to 'version01.txt' Commit different features, remember messages! Restore a previous version using Git commands
+
+Task 2: Branching & Merging Discover the power of branches! 🌿 Create multiple branches Edit 'dev' branch, merge into 'master' Try Git rebase, and spot the differences! ⚖️ Ready to elevate your DevOps skills?
