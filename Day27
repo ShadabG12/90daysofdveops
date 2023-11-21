@@ -1,0 +1,7 @@
+Hey #connections,👋 
+Its #day27 of #90daysofdevops,
+Just published a new blog post diving deep into the world of Jenkins pipelines. 🛠️ If you're into DevOps and automation, this one's for you!
+
+In this post, we will learn the power of declarative Jenkins pipelines and how they play along with environment variables. 💡
+
+✅ Task : Create a job for an application using declarative pipeline where the job automatically clones the code from github repo, builds the image, pushes the code to docker-hub and deploys it.
